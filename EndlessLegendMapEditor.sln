@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EndlessLegendMapEditor.Plugins", "EndlessLegendMapEditor.Plugins.csproj", "{5826187A-6683-7312-361C-A14141C3D461}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EndlessLegendMapEditor", "EndlessLegendMapEditor.csproj", "{5127B326-B674-45D7-3223-AA20FB6CF649}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EndlessLegendMapEditor.Editor.Plugins", "EndlessLegendMapEditor.Editor.Plugins.csproj", "{35F57837-7B16-0A5E-9919-BA7BEC5156CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5826187A-6683-7312-361C-A14141C3D461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5826187A-6683-7312-361C-A14141C3D461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5826187A-6683-7312-361C-A14141C3D461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5826187A-6683-7312-361C-A14141C3D461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5127B326-B674-45D7-3223-AA20FB6CF649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5127B326-B674-45D7-3223-AA20FB6CF649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5127B326-B674-45D7-3223-AA20FB6CF649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5127B326-B674-45D7-3223-AA20FB6CF649}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35F57837-7B16-0A5E-9919-BA7BEC5156CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35F57837-7B16-0A5E-9919-BA7BEC5156CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35F57837-7B16-0A5E-9919-BA7BEC5156CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35F57837-7B16-0A5E-9919-BA7BEC5156CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

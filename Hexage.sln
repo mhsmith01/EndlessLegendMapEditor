@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hexage.Plugins", "Hexage.Plugins.csproj", "{FEFEB045-4D7A-1002-77E6-6ACE0CC98F6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hexage", "Hexage.csproj", "{A176C86C-1EF7-C21A-DDDE-9CA9681A016E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hexage.Editor.Plugins", "Hexage.Editor.Plugins.csproj", "{0C3C4146-46B3-A2A5-1C32-AFE54801D59F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEFEB045-4D7A-1002-77E6-6ACE0CC98F6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEFEB045-4D7A-1002-77E6-6ACE0CC98F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEFEB045-4D7A-1002-77E6-6ACE0CC98F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEFEB045-4D7A-1002-77E6-6ACE0CC98F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A176C86C-1EF7-C21A-DDDE-9CA9681A016E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A176C86C-1EF7-C21A-DDDE-9CA9681A016E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A176C86C-1EF7-C21A-DDDE-9CA9681A016E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A176C86C-1EF7-C21A-DDDE-9CA9681A016E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C3C4146-46B3-A2A5-1C32-AFE54801D59F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C3C4146-46B3-A2A5-1C32-AFE54801D59F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C3C4146-46B3-A2A5-1C32-AFE54801D59F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C3C4146-46B3-A2A5-1C32-AFE54801D59F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

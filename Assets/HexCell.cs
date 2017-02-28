@@ -11,6 +11,16 @@ public class HexCell : MonoBehaviour
     public int X;
     public int Y;
 
+    public Region Region;
+
+    public Spawn Spawn;
+
+    public River River;
+
+    public Terrain Terrain;
+
+    public PointOfIntrest PointOfIntrest;
+
     public HexCell(HexGrid grid, int x, int y)
     {
         this._grid = grid;
